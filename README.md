@@ -1,17 +1,18 @@
 <h1 align="center">👋 Hey there, I'm ZeTioZ</h1>
 
 <p align="center">
-🎮 Minecraft plugin developer, AI tinkerer & open-source enthusiast.<br/>
-📍 Based in Belgium | 💡 Automating, building, and experimenting with cool stuff.
+🏢 Currently working at CluePoints as Backend Software Engineer.<br/>
+💡 Likes to make Minecraft plugins, tinker with AI & open-source enthusiast.<br/>
+📍 Based in Belgium | Automating, building, and experimenting with cool stuff.
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 🔭 Currently working on Minecraft plugins, AI tools, and real-time overlays
-- 🧠 Passionate about cybersecurity, local LLMs, computer vision and software engineering
-- ⚡ Fun fact: I automate whatever I can 😄
+- 📺 Likes watching animes.
+- 🎮 Plays some good videos games.
+- 🧠 Passionate about cybersecurity, local LLMs, computer vision and software engineering.
+- ⚡ Fun fact: I automate whatever I can 😄.
 
 ---
 
@@ -44,7 +45,7 @@
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,py,opencv,tensorflow,fastapi,docker,jenkins,git,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,py,opencv,tensorflow,fastapi,docker,jenkins,git,gitlab,vscode,idea,linux" />
 </p>
 
 ---
