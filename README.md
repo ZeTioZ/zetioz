@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Donato</h1>
+<h1 align="center">👋 Hey there, I'm ZeTioZ</h1>
 
 <p align="center">
 🏢 Currently working at CluePoints as Backend Software Engineer.<br/>
