@@ -28,17 +28,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeTioZ&show_icons=true&theme=radical" alt="ZeTioZ's GitHub Stats"/>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZeTioZ&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=ZeTioZ&show_icons=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeTioZ&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeTioZ&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ZeTioZ&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ZeTioZ&langs_count=4&theme=dark)
 
 ---
 
